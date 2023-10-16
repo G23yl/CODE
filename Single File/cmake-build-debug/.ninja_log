@@ -1,9 +1,0 @@
-# ninja log v5
-1	852	7183523104477882	CMakeFiles/Single_File.dir/main.cpp.obj	b43db951e9cd5b69
-852	1106	7183523106877688	Single_File.exe	a93848f6463e4927
-0	595	7183526144721705	CMakeFiles/Single_File.dir/main.cpp.obj	b43db951e9cd5b69
-595	750	7183526146034692	Single_File.exe	a93848f6463e4927
-0	527	7183526896980359	CMakeFiles/Single_File.dir/main.cpp.obj	b43db951e9cd5b69
-528	701	7183526898416226	Single_File.exe	a93848f6463e4927
-0	554	7183528249517788	CMakeFiles/Single_File.dir/main.cpp.obj	b43db951e9cd5b69
-555	681	7183528250549627	Single_File.exe	a93848f6463e4927
